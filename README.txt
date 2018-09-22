@@ -39,5 +39,5 @@ for show Cryptocurrencies table use [hcc_table_price] shortcode.
 
 = 1.0 =
 *   **New** : First release
-= 1.0.1 =
+= 1.0.2 =
 *   **Test** : First release
