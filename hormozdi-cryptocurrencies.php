@@ -9,7 +9,7 @@
  * Plugin Name:           Hormozdi Cryptocurrencies
  * Plugin URI:            http://hormozdi.ir/hcrypto
  * Description:           Show and convert Cryptocurrencies price to Iran’s currency (IRR). for show Cryptocurrencies table use [hcc_table_price] shortcode.
- * Version:               1.0.2
+ * Version:               1.0.3
  * Author:                Hormozdi
  * Author URI:            http://hormozdi.ir/
  * Text Domain:           hormozdi-cryptocurrencies
